@@ -3,7 +3,7 @@ We Rotate array by putting **last element of array at the start of the array** a
 like this
 **Input:**
   arr = [4,6,8,10,12,8]
-  print( rotate_array( arr, len(arr) - 1 )
+and 
 **Output:**
   [8, 4, 6, 8, 10, 12]
   
