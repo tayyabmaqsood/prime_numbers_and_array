@@ -1,4 +1,4 @@
-This code is about rotate array and don't change prime number index.
+This code is about array rotation and don't change prime number index.
 We Rotate array by putting **last element of array at the start of the array** and shifting other elements of array by one index
 like this
 **Input:**
